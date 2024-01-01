@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&weight=435&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Web-Developer)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on **improving the internet network**
+
+- 🌱 I’m currently learning **Front-End & Back-End** 
+
+- 👯 I’m looking to collaborate on **Web-Development**
+
+- 💬 Ask me about **HTML CSS JS** 
 
 <!--
 **snrckg/snrckg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
